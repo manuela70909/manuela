@@ -13,3 +13,20 @@ A rede neural artificial é um modelo computacional inspirado no cérebro humano
 
 -> Nuvem:
 A nuvem de dados refere-se ao uso de servidores remotos para armazenar e gerenciar informações, em vez de manter dados em dispositivos locais. Isso permite acesso e compartilhamento de dados de qualquer lugar com conexão à internet. Os serviços de nuvem oferecem flexibilidade para expandir ou reduzir a capacidade de armazenamento conforme necessário, e frequentemente incluem recursos de segurança avançados.
+
+-> Processo de Negócio:
+Na programação, um processo de negócio é implementado e automatizado por meio de software para apoiar e gerenciar atividades e fluxos de trabalho organizacionais. Isso envolve modelar o processo usando ferramentas como BPMN, traduzir o processo em código e funcionalidades de software, garantir que o software funcione corretamente através de testes, e monitorar e otimizar continuamente o desempenho para melhorar a eficiência e a eficácia.
+
+-> Sistema de Arquivos:
+Um sistema de arquivos é uma estrutura usada pelo sistema operacional para organizar, armazenar e gerenciar dados em dispositivos de armazenamento. Ele organiza arquivos em diretórios, gerencia nomes e metadados dos arquivos, define permissões de acesso, e usa técnicas de alocação para armazenar dados de forma eficiente. Exemplos incluem NTFS, ext4 e FAT32.
+
+-> Banco de Dados:
+Um banco de dados é uma coleção estruturada de dados armazenados e geridos para facilitar o acesso e a manipulação. Ele organiza dados em tabelas e usa um Sistema de Gerenciamento de Banco de Dados (SGBD) para criar, ler, atualizar e excluir informações. Permite executar consultas para recuperar e manipular dados, garante integridade e segurança, e oferece mecanismos de backup e recuperação.
+
+-> Zero-Rating:
+O Zero Rating é uma prática realizada pelas operadoras e algumas empresas de tecnologia que consiste em permitir o acesso de forma "gratuita", ou sem cobrar o tráfego de dados móveis a alguns serviços online, como apps de rede sociais e mensagens.
+
+-> Dados:
+Na programação, dados são informações que um programa manipula. Eles podem ser números, textos ou valores booleanos e são armazenados em variáveis. Dados são organizados em estruturas como arrays e listas, e são processados para realizar cálculos ou transformações. Eles podem ser lidos de entradas, exibidos como saídas e armazenados em arquivos ou bancos de dados para uso posterior.
+
+Fontes: Techtudo, Wikipedia, OpenIA.
